@@ -3,8 +3,31 @@ import activeai from "./assets/pngs/activeai.png";
 import mountblue from "./assets/pngs/mountblue.png";
 import gupshup from "./assets/pngs/gupshup.png";
 import wipro from "./assets/pngs/wipro.png";
+import freelancer from "./assets/pngs/freelancer.jpg";
 
 export const ExperienceData = [
+  {
+    name: "Freelancer",
+    logo: freelancer,
+    duration: "Sept 2025 - Present",
+    skills: [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "NextJS",
+      "ReactJS",
+      "Redux",
+      "NodeJS",
+      "Modele Federation",
+      "Zustand",
+      "Docker",
+      "NodeJS",
+      "MongoDB",
+    ],
+    desc: [
+      "Delivering client solutions with passion, precision, and always ahead of time.",
+    ],
+  },
   {
     name: "WIPRO",
     client: "Optum - UHG",
